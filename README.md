@@ -1,2 +1,2 @@
-# Myassignments
+# Playwright Repo
 PW-JS Assignments
